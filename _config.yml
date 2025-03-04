@@ -22,7 +22,7 @@ source-code: https://github.com/davctate/dct
 # title of site appears in banner
 title: Digital Collection 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: TEST
+tagline: David Tate
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "To create a digital collection for INSC 565."
